@@ -9,20 +9,12 @@ Just try it!
 
 <br>
 
-### Skills
+### Try It!
 ---
 
 <br>
 
-This Project is built with these following skills:
-
-<br>
-
-- PHP Framework
-- SQL - MySQL
-- Webpack
-- HTML - CSS - Javascript
-- SASS
+- [Web Application](README.try-it-web.md) 
 
 <br>
 
